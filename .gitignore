@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs & runtime artifacts
+logs/
+*.log
+
+# Persisted ML models
+app/models/
+
+# Environment / secrets
+.env
+
+# IDEs & tooling
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,505 @@
+line_norm,label
+jul    calvisitor---- blued[]: [bluetoothhiddevicecontroller]error: could not find the disconnected object,BluetoothError
+jul    calvisitor---- wechat[]: unable to simultaneously satisfy constraints:,LayoutConstraint
+jul    calvisitor---- preview[]: unable to simultaneously satisfy constraints:,LayoutConstraint
+jul    authormacbook-pro qq[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jul    authormacbook-pro neteasemusic[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jul    calvisitor---- qq[]: unable to simultaneously satisfy constraints:,LayoutConstraint
+jul    airbears2---- wechat[]: unable to simultaneously satisfy constraints:,LayoutConstraint
+jul    calvisitor---- neteasemusic[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jul    authormacbook-pro com.apple.webkit.webcontent[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jul    calvisitor---- qq[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jul    authormacbook-pro wechat[]: unable to simultaneously satisfy constraints:,LayoutConstraint
+jul    authormacbook-pro blued[]: [bluetoothhiddevicecontroller]error: could not find the disconnected object,BluetoothError
+jul    airbears2---- neteasemusic[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jul    airbears2---- qq[]: tcp_connection_handle_connect_conditions_bad  failed:  - no network route,NoNetworkRoute
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=...  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.xy.jx.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=root,SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for root [preauth],SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for . [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=...,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...,SSHAuthFail
+dec   labsz sshd[]: disconnecting: too many authentication failures for root [preauth],SSHAuthFail
+"dec   labsz sshd[]: address ... maps to mail.junlike.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ---.user.vivozap.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=ftp,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to ----dedicated.multacom.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: disconnecting: too many authentication failures for admin [preauth],SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.fs.gd.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for .subnet118--.static.astinet.telkom.net.id [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=...  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=...,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=aiq139.rev.netart.pl,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for sv121096.bkns.vn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.hinet-ip.hinet.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.rev.poneytelecom.eu [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for static.....dsl.krasnet.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.xy.jx.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+"dec   labsz sshd[]: address ... maps to hosted-by.enoctus.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for . [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.rev.cloud.scaleway.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host229---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: disconnecting: too many authentication failures for service [preauth],SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=uucp,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....static.js.chinamobile.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for lvhqgeek.com--512mb-fra1- [...] failed - possible break-in attempt!,SSHPossibleBreak
+"dec   labsz sshd[]: address ... maps to scanning.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for cost.steekpromo.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=www-data,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for awecsakira.planetahost.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip----.router.siliconvalleywifi.com,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=zachary,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host42---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.ip.afrihost.co.za,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ip----.user.vivozap.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.xw.sh.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=git,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host142---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.user.vivozap.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ec2----.cn-north-.compute.amazonaws.com.cn,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for fttu----.bvunet.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=mysql,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=sshd,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....vultr.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for no-data [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.static.imsbiz.com,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ----dhcp.aoo.pa.atlanticbb.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for jupiter.fortinj.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ---.rev.cloud.scaleway.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....adsl-pool.jx.chinaunicom.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: disconnecting: too many authentication failures for admin [preauth],SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for ubnt [preauth],SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip6.ip---.net,SSHAuthFail
+dec   labsz sshd[]: disconnecting: too many authentication failures for support [preauth],SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host229---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.myrepublic.com.sg [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.sm.yn.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.rev.cloud.scaleway.com  user=root,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to mail.trionis.ru, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for adsl----.tarko-sale.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for customer-----sta.uninet-ide.com.mx [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....toledoinfo.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=uucp,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=ip127.ip---.eu  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for .--.etapanet.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host143---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=vimaru.edu.vn,SSHAuthFail
+"jan    labsz sshd[]: address ... maps to static.vnpt.vn, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=s0106802aa8cd93bf.vn.shawcable.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=mysql,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=static24---.r.rev.accesscomm.ca,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host21---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ns3009123.ip---.eu,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....static.js.chinamobile.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=sshd,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ---.rev.poneytelecom.eu [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for b3d29652.virtua.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=d54c336a0.access.telenet.be  user=root,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=c----.hsd1.ca.comcast.net,SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for pi [preauth],SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=sys,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=git,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dyn.iinet.net.au  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.hinet-ip.hinet.net  user=mysql,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.speedy.com.ar [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dyn.iinet.net.au  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dsl.telesp.net.br  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host99---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=gw-bell-xen.ll-nsk.zsttk.ru,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=fixed----.totalplay.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host17---.static.arubacloud.pl [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host152---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.ip250.fastwebnet.it,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.rev.cloud.scaleway.com,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=top-bdii.ipm.ac.ir,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=.ctinets.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=nobody,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for static-host----.awasr.om [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for server1.google.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=cpe----.triad.res.rr.com,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for hn.kd.ny.adsl [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dhcp.leds.al.charter.com,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....vultr.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.dq.hl.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....static.ttnet.com.tr [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.rev.cloud.scaleway.com  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=ftp,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=bin,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for broadband.actcorp.in [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=games,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ns502983.ip---.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=anantes----.w109-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip----.router.siliconvalleywifi.com  user=root,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to static.vnpt.vn, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: disconnecting: too many authentication failures for usuario [preauth],SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....triolan.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=server,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host161---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host166---.static.arubacloud.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=pom51-----.fbx.proxad.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=news,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.telebucaramanga.net.co [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for customer.worldstream.nl [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=bin,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.sz.gd.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: disconnecting: too many authentication failures for usuario [preauth],SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ip----.user.vivozap.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ezecom.....ezecom.com.kh,SSHAuthFail
+dec   labsz sshd[]: disconnecting: too many authentication failures for ubnt [preauth],SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=....cable.tpia.cipherkey.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=d51a5cccb.access.telenet.be,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ---.speedy.com.ar [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: disconnecting: too many authentication failures for supervisor [preauth],SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....static-kolkata.vsnl.net.in [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=reb1079596.lnk.telstra.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=sta24-----.fbx.proxad.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=mta4.castlewin.trade,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=pool----.washdc.fios.verizon.net,SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for user [preauth],SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for strategicactionframework.com.au [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=node-nmo.pool--.dynamic.totbb.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host-....tedata.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for mx-ll-..-.dynamic.3bb.co.th [...] failed - possible break-in attempt!,SSHPossibleBreak
+"dec   labsz sshd[]: address ... maps to ....magvision.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ec2----.us-west-.compute.amazonaws.com  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host-...-static.tedata.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=ppp118---.bras1.syd2.internode.on.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=p4fdb1703.dip0.t-ipconnect.de  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host----.kabelnet.hu  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.sf.ddns.bulsat.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.ip.afrihost.co.za  user=mysql,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for unspecified.mtw.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for hosted-by.rootlayer.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=host-.wireless.cinte.com.br,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=lmontsouris----.w82-.abo.wanadoo.fr,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=gnats,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ec2----.cn-north-.compute.amazonaws.com.cn  user=mysql,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=h87---.cust.se.alltele.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.allband.org [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.hinet-ip.hinet.net  user=git,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....pool.sknt.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host66---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: disconnecting: too many authentication failures for pi [preauth],SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for wat2.nowplaying.ga [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host40---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....static.anycast.cnt-grms.ec [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.3g.claro.net.br  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic-ip.hinet.net  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....in-addr.arpa [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=dslb----...pools.vodafone-ip.de,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=backup,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.bm.nm.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for int0.client.access.fanaptelecom.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=lmontsouris----.w82-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=.ctinets.com,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=....dynamic-dsl-ip.omantel.net.om  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=news,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for dsl-----dyn.prod-infinitum.com.mx [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....sta..ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ppp118---.bras1.syd2.internode.on.net  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....dyn.v4.saturn-internet.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic-ip.hinet.net  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host--.internetunion.pl [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=dslb----...pools.vodafone-ip.de  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=hmtnon1497w-lp130-----.dsl.bell.ca,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=bb219---.singnet.com.sg  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=mail,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=m90---.cust.tele2.lv  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.metroethernet.dynamic.fst.sp.faster.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=bb219---.singnet.com.sg  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.cable.teksavvy.com,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.bj.bj.static.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.megavelocidade.com.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=host----.lynet.no,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=vimaru.edu.vn  user=git,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host55---.serverdedicati.aruba.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=daemon,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=anantes----.w109-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=syslog,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=diup--.inter.net.il,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=pn--.itsc.cuhk.edu.hk  user=hxu,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=softbank126025084195.bbtec.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=gw-bell-xen.ll-nsk.zsttk.ru  user=git,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ppp----.dynamic.mnet-online.de  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for pppoe----.lekks.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....pldt.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=aup83-----.fbx.proxad.net,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dhcp.mdsn.wi.charter.com,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=lfbn-lil---.w81-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=p416182-ipngn4001akatuka.ibaraki.ocn.ne.jp,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dsl.telesp.net.br  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dhcp.mdsn.wi.charter.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=hxu,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=www-data,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.hinet-ip.hinet.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.rev.cloud.scaleway.com,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....static.pldt.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=.ctinets.com,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=server,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic-ip.hinet.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=man,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for promote.cache-dns.local [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip----.ip.secureserver.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ec2----.compute-.amazonaws.com,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host166---.static.arubacloud.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.zz.sd.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=x4dbb18ea.dyn.telefonica.de,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for .mega.nn.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: disconnecting: too many authentication failures for user [preauth],SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host----.as13285.net  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for r193---.utex-telecom.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=softbank126025084195.bbtec.net  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=syslog,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=....redfoxtelecom.com.br,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.ip.ukrtel.net  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip127.ip---.eu  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=h109---.dyn.bashtel.ru  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.static.tpgi.com.au,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for 5ad64b68.bb.sky.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for rechtratores.static.gvt.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host81---.in-addr.btopenworld.com  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for hn.kd.dhcp [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.zs.zj.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=avo172.neoplus.adsl.tpnet.pl  user=root,SSHAuthFail
+dec   labsz sshd[]: disconnecting: too many authentication failures for supervisor [preauth],SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=sync,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic.mts-nn.ru  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for pla75-----.fbxo.proxad.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=n112120195041.netvigator.com,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host86---.range86-.btcentralplus.com,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=....rev.sfr.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=hxu,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=cpc111743-lutn13---cust845.-.cable.virginm.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=..-.verdenettelecom.net.br  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=s0106a84e3f6d7173.ed.shawcable.net,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.sz.gd.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for caf-....caf-online.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=5f44cf5d.dynamic.mv.ru,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.yourlink.ca [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.pt.fj.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic.mts-nn.ru  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....f.sta.codetel.net.do [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=sync,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip----.router.siliconvalleywifi.com  user=sshd,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for host-....butovonet.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=cpc111119-wiga14---cust1205.-.cable.virginm.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=gw-bell-xen.ll-nsk.zsttk.ru  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.ciaccess.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.hinet-ip.hinet.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=p54835537.dip0.t-ipconnect.de,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=d97a654a.cm--3b.dynamic.ziggo.nl,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....radiocable.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....ifibertv.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=proxy,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=h109---.dyn.bashtel.ru  user=root,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to unallocated-static.rogers.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.hz.zj.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=lfbn---.w86-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=p5794b7d3.dip0.t-ipconnect.de,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.xm.fj.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=d97a654a.cm--3b.dynamic.ziggo.nl,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for dsl-----dyn.prod-infinitum.com.mx [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.jetstream.xtra.co.nz  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=port----.dynamic.qsc.de  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.bx.ln.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=p54835537.dip0.t-ipconnect.de,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=kd121106112251.ppp-bb.dion.ne.jp,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to mail01.vision247.com, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host----.netlife.ec,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=net203--.mclink.it,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=----bbc-dynamic.kuzbass.net  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....gs.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.hinet-ip.hinet.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=bl16--.dsl.telepac.pt  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.rev.poneytelecom.eu,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=h87---.cust.se.alltele.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.static.telcel.net.ve [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....sta.impsat.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=c----.hsd1.co.comcast.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ec2----.compute-.amazonaws.com  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host-.wireless.cinte.com.br,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host10--dynamic.--r.retail.telecomitalia.it  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=5f44cf5d.dynamic.mv.ru,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=x4db47b7c.dyn.telefonica.de  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....adsl-pool.jlccptt.net.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=....dynamic-dsl-ip.omantel.net.om,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.multi.net.pk [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.pools.spcsdns.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.spectrumnet.bg,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=backup,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=h----.na.cust.bahnhof.se  user=root,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=----bbc-dynamic.kuzbass.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=hwvps150156.hostwindsdns.com,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for hn.kd.ny.adsl [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.rev.home.ne.jp  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=.--.ftth.swbr.surewest.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.sf.ddns.bulsat.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=bzq----.red.bezeqint.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip----.wlan.cuhk.edu.hk  user=curi,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=gw-bell-xen.ll-nsk.zsttk.ru  user=mysql,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=static.....clients.your-server.de,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....techserverdns.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=.ip---.eu  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=cpc111743-lutn13---cust845.-.cable.virginm.net  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ..-.xdsl.ab.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=bl16--.dsl.telepac.pt  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for static----.ctrls.in [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.filibe.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.speedconnect.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=host----.mors.by  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....chtts.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=host----.as13285.net  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=d54c336a0.access.telenet.be  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dhcp.leds.al.charter.com,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to corporativo.gvt.net.br, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=h----.na.cust.bahnhof.se  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.jetstream.xtra.co.nz  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=ip----.wlan.cuhk.edu.hk  user=curi,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=lfbn-lil---.w81-.abo.wanadoo.fr,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=fp839371db.tkyc413.ap.nuro.jp  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=s75---.bc.hsia.telus.net  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=irc,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.customers.ownit.se  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip6.ip---.net  user=root,SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for xbmc [preauth],SSHAuthFail
+dec   labsz sshd[]: disconnecting: too many authentication failures for service [preauth],SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=dslb----...pools.vodafone-ip.de,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ip----.router.siliconvalleywifi.com  user=ftp,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=cpc111119-wiga14---cust1205.-.cable.virginm.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.static.netvigator.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=c----.hsd1.il.comcast.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.wh.hb.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic-ip.hinet.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=nobody,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=reb1079596.lnk.telstra.net  user=root,SSHAuthFail
+"dec   labsz sshd[]: address ... maps to apure.tepuyserver.net, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=----arpa.younet.com.br,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=x4db19e5f.dyn.telefonica.de,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dial-up.telesp.net.br,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.subs.proxad.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=ipservice----...pools.vodafone-ip.de  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=x5ce4c893.dyn.telefonica.de  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for free--.mediaworksit.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for free--.mediaworksit.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.online.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.broadband.kyivstar.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....static.anycast.cnt-grms.ec [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for static.bulsat.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.bam.movistar.cl [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.static.netvigator.com  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host167--static.--b.business.telecomitalia.it [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host-...-static.tedata.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for host-....tedata.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=....cable.tpia.cipherkey.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=p599029-ipngn4901akatuka.ibaraki.ocn.ne.jp  user=root,SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for mother [preauth],SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.bjtelecom.net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=proxy,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.customers.ownit.se  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for adsl----.edatel.net.co [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=cpe----.satx.res.rr.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=catv----.catv.broadband.hu,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host----.mors.by  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host135--static.--b.business.telecomitalia.it,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=....dynamic-dsl-ip.omantel.net.om  user=root,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=lfbn---.w86-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.safaricombusiness.co.ke [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.mrse.com.ar [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for 5x18x233x170.static-business.iz.ertelecom.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=----dynamic.midco.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.broadband.corbina.ru  user=root,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=static24---.r.rev.accesscomm.ca,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ---.linktelecom.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for client-....speedy.net.pe [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=wsip----.dc.dc.cox.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=lfbn-bay---.w90-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=node-nmo.pool--.dynamic.totbb.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for u223-r15.dynamic.miass.multinex.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=mta4.castlewin.trade  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=pom51-----.fbx.proxad.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for unknown.static..net [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=static----.maxxnetlv.com.br,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=p416182-ipngn4001akatuka.ibaraki.ocn.ne.jp,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.safaricombusiness.co.ke,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dhcp.mdsn.wi.charter.com,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=....dynamic.wline.res.cust.swisscom.ch  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.redewsp.com.br,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=host10--dynamic.--r.retail.telecomitalia.it  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ec2----.us-west-.compute.amazonaws.com,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ws24...zone94.zaural.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=p4fdb1703.dip0.t-ipconnect.de  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=tor2r.ins.tor.net.eu.org,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ipservice----...pools.vodafone-ip.de  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for abs-static-....aircel.co.in [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=m90---.cust.tele2.lv  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic-ip.hinet.net,SSHAuthFail
+"jan    labsz sshd[]: address ... maps to localhost, but this does not map back to the address - possible break-in attempt!",SSHPossibleBreak
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....static.ttnet.com.tr [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=mail,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=..-.verdenettelecom.net.br  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ip54502346.adsl-surfen.hetnet.nl [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic.primacom.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.safaricombusiness.co.ke,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=lfbn---.w90-.abo.wanadoo.fr  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=dsl51b7e35c.fixip.t-online.hu,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for sv121094.bkns.vn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=dslb----...pools.vodafone-ip.de  user=root,SSHAuthFail
+jan    labsz sshd[]: disconnecting: too many authentication failures for support [preauth],SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=....rev.sfr.net,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.hz.zj.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=under.biologicaltends.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=suyuxin,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=....dynamic-dsl-ip.omantel.net.om,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=ns3009123.ip---.eu  user=mysql,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host226--static.--b.business.telecomitalia.it,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=under.biologicaltends.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.subs.proxad.net,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=x4dbb18ea.dyn.telefonica.de,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=pineon9.arvixevps.com  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=softbank126087244243.bbtec.net,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=.ctinets.com  user=root,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for ....sta.impsat.net.br [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=p599029-ipngn4901akatuka.ibaraki.ocn.ne.jp  user=root,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=port----.dynamic.qsc.de  user=root,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=c----.hsd1.il.comcast.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=hulk.fea.usp.br,SSHAuthFail
+jan    labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=.--.customer.lyse.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=modemcable118.--.mc.videotron.ca  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=srv6.cineteck.net,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=dslbc06a4f5.fixip.t-online.hu,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=softbank126087244243.bbtec.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.dynamic.primacom.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=.--.customer.lyse.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.km.yn.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....blizoo.bg [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=node-s3t.pool--.dynamic.totbb.net,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for 5x18x248x14.static-business.iz.ertelecom.ru [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=d51a5cccb.access.telenet.be,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=n112120195041.netvigator.com,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for ....broad.ly.fj.dynamic.163data.com.cn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=s75---.bc.hsia.telus.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=avo172.neoplus.adsl.tpnet.pl  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=daemon,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=lfbn-bay---.w90-.abo.wanadoo.fr,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=.--.ftth.swbr.surewest.net,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=lp,SSHAuthFail
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=cpe----.satx.res.rr.com  user=root,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for dynamic.vdc.vn [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=host----.lynet.no,SSHAuthFail
+jan    labsz sshd[]: reverse mapping checking getaddrinfo for static.vnpt-hanoi.com.vn [...] failed - possible break-in attempt!,SSHPossibleBreak
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=fp839371db.tkyc413.ap.nuro.jp  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=list,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=j1hkkji0.ni.net.tr,SSHAuthFail
+dec   labsz sshd[]: reverse mapping checking getaddrinfo for triband-mum-....mtnl.net.in [...] failed - possible break-in attempt!,SSHPossibleBreak
+dec   labsz sshd[]: pam  more authentication failures; logname= uid= euid= tty=ssh ruser= rhost=x5ce4c893.dyn.telefonica.de  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=s0106802aa8cd93bf.vn.shawcable.net  user=root,SSHAuthFail
+dec   labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=---.rev.home.ne.jp  user=root,SSHAuthFail
+jan    labsz sshd[]: pam_unix(sshd:auth): authentication failure; logname= uid= euid= tty=ssh ruser= rhost=...  user=curi,SSHAuthFail

@@ -1,0 +1,6 @@
+line,label
+ERROR: TimeoutError on device /dev/ttyUSB0 after 30 s,TimeoutError
+ERROR: Segmentation fault (core dumped) at address 0x00000000,SegmentationFault
+ERROR: Null pointer dereference in module sensor.c:178,NullPointer
+ERROR: TestFailure: expected 42 but got 0 in test_math.py::test_answer,TestFailure
+ERROR: Memory leak detected: +12 MB in module comms.cpp,MemoryLeak
