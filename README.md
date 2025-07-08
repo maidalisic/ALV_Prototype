@@ -18,7 +18,6 @@ in CI/CD-Logs (Schwerpunkt Embedded-Software). Zwei Analyse-Engines stehen zur W
 | **Global Threshold** | µ − 2 σ-Grenze, in Modell-Datei persistiert |
 | **Model Versioning** | `app/models/model_YYYYMMDDhhmmss.joblib` |
 | **Helper-Scripts** | `train_from_dir.py`, `train_and_test.py`, `eval_pr.py` |
-| **Docker-ready** | *optional* – Dockerfile liegt bei |
 
 ---
 
